@@ -8,9 +8,7 @@ date and time picker.
 It is easy to use, simple yet powerful
 and highly configurable date-time picker
 with seconds, AM-PM and keyboard support,
-(about keyboard support - see section Accessibility below)
-and wide-range format of input/output date/time values
-(see section Format of date/time below).
+and wide-range format of input/output date/time values.
 
 It requires no extra files - no JavaScript libraries,
 no any css or image files, it works just out of the box.
