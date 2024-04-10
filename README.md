@@ -13,4 +13,4 @@ and wide-range format of input/output date/time values.
 It requires no extra files - no JavaScript libraries,
 no any css or image files, it works just out of the box.
 
-See page http://beotiger.com/justcal for details about using and configuring it.
+
